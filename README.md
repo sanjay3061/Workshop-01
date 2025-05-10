@@ -36,8 +36,8 @@ Save and run the app. On clicking the "Explicit Intent" button, it will navigate
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by: A.DHANUSH
-Registeration Number : 212222220010
+Developed by: Sanjay.R
+Registeration Number : 212222220038
 */
 ```
 ## Main Activity.java
