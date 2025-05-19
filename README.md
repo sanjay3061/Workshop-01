@@ -252,12 +252,12 @@ public class DisplayActivity extends AppCompatActivity {
 
 ```
 ## OUTPUT
-![Screenshot 2025-04-24 192322](https://github.com/user-attachments/assets/164b6e96-6f70-4963-9da5-60c93fbae9d4)
-
-![Screenshot 2025-04-24 192328](https://github.com/user-attachments/assets/a6b70618-2759-4b57-94ac-e2ff6c253939)
 
 
-![Screenshot 2025-04-24 192337](https://github.com/user-attachments/assets/8db8a748-e209-4295-88d9-15f5b9432a19)
+![WhatsApp Image 2025-05-16 at 17 44 23_35df40dc](https://github.com/user-attachments/assets/2fa053b5-a5f3-4ac8-964b-32495d5f3b73)
+![WhatsApp Image 2025-05-16 at 17 44 23_054293ac](https://github.com/user-attachments/assets/c192b5be-18d4-4915-8a2b-cc6e20377abd)
+
+
 
 ## RESULT
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
